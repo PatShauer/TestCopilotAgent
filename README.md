@@ -2,6 +2,7 @@
 
 A Python implementation for calling OpenAI-compatible LLM APIs. This project provides a simple, flexible function that can work with various LLM providers including OpenAI, Azure OpenAI, LocalAI, Ollama, and other OpenAI-compatible APIs.
 
+
 ## Features
 
 - **Universal Compatibility**: Works with any OpenAI-compatible API
