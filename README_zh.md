@@ -2,6 +2,9 @@
 
 一个用于调用OpenAI兼容LLM API的Python实现。本项目提供了一个简单、灵活的函数，可以与各种LLM提供商一起使用，包括OpenAI、Azure OpenAI、LocalAI、Ollama和其他OpenAI兼容的API。
 
+
+
+
 ## 功能特性
 
 - **通用兼容性**：适用于任何OpenAI兼容的API
